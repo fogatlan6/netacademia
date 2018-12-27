@@ -28,8 +28,10 @@ h1 {
   top: 200px;
   background: green;
   padding: 1em;
-  color: white;
-  font-family: Arial;
-  text-decoration: none;
   border: 1px;
+  a {
+    color: white;
+    font-family: Arial;
+    text-decoration: none;
+  }
 }
