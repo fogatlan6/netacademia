@@ -12,4 +12,12 @@ body { margin:0px; }
   background-size: cover;
 }
 
-h1 { font-family: 'Work Sans', sans-serif; }
+h1 { 
+  font-family: 'Work Sans', sans-serif; 
+  margin: 0px;
+  font-size: 60px;
+  position:relative;
+  left:3em;
+  top:3em;
+  color:white;
+}
