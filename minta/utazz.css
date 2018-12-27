@@ -29,9 +29,11 @@ h1 {
   background: green;
   padding: 1em;
   border: 1px;
-  a {
+  border-style: solid;
+}
+
+.gombocska a {
     color: white;
     font-family: Arial;
     text-decoration: none;
   }
-}
